@@ -9,7 +9,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.2.1.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
@@ -19,7 +19,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.2.0.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.0.1-115
@@ -29,7 +29,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.1-115.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.1-115.tgz
     version: 1.0.1-115
   - apiVersion: v2
     appVersion: 1.0.1-115
@@ -39,7 +39,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.1.0.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.1.0.tgz
     version: 1.0.1-115
   - apiVersion: v2
     appVersion: 1.0.1-98
@@ -49,7 +49,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.1-98.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.1-98.tgz
     version: 1.0.1-98
   - apiVersion: v2
     appVersion: 1.0.1-97
@@ -59,7 +59,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.1-97.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.1-97.tgz
     version: 1.0.1-97
   - apiVersion: v2
     appVersion: 1.0.1-94
@@ -69,7 +69,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.1-94.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.1-94.tgz
     version: 1.0.1-94
   - apiVersion: v2
     appVersion: 1.0.1-93
@@ -79,7 +79,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.1-93.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.1-93.tgz
     version: 1.0.1-93
   - apiVersion: v2
     appVersion: 1.0.1-91
@@ -89,7 +89,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.1-91.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.1-91.tgz
     version: 1.0.1-91
   - apiVersion: v2
     appVersion: 1.0.1-90
@@ -99,7 +99,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.1-90.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.1-90.tgz
     version: 1.0.1-90
   - apiVersion: v2
     appVersion: 1.0.1-89
@@ -109,7 +109,7 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.1-89.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.1-89.tgz
     version: 1.0.1-89
   - apiVersion: v2
     appVersion: 1.0.0
@@ -119,6 +119,6 @@ entries:
     name: gitops-connector
     type: application
     urls:
-    - https://azure.github.io/gitops-connector/gitops-connector-1.0.0.tgz
+    - https://raw.githubusercontent.com/KarolisZK/arc-cicd-demo-src/master/gitops-connector-1.0.0.tgz
     version: 1.0.0
 generated: "2023-07-10T23:33:05.789550114Z"
